@@ -95,6 +95,32 @@ This approach ensures:
 
 ---
 
+# 📸 Application Screenshots
+
+## 🏠 Home Interface
+
+Displays the main user interface with profile setup, recommendations section, and AI assistant.
+
+![Home Interface](home-interface.png)
+
+---
+
+## 🎯 Recommendation Results
+
+Shows personalized opportunity recommendations with explainable scoring logic.
+
+![Recommendation Results](recommendation-results.png)
+
+---
+
+## 🤖 AI Assistant Interface
+
+Demonstrates the conversational AI assistant for career and opportunity guidance.
+
+![AI Assistant](ai-assistant-interface.png)
+
+---
+
 # 📚 Key Learnings
 
 - Streamlit web application development
